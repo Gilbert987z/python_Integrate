@@ -1,0 +1,4 @@
+# yaml键值对：即python中字典
+usr: my
+psw: 123455
+s: " abc\n"

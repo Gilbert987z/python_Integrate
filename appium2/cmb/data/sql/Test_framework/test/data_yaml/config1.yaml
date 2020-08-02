@@ -1,0 +1,7 @@
+# yaml键值对嵌套：即python中字典嵌套字典
+usr1:
+  name: a
+  psw: 123
+usr2:
+  name: b
+  psw: 456
