@@ -82,7 +82,8 @@ if __name__ == '__main__':
                     print('ERROR:输入错误，要求输入数字为正整数，请重新输入！')
             except BaseException:
                 print('ERROR:输入错误，要求输入为正整数，请重新输入！')
-        # 输入循环次数的校验的校验
+
+        # 输入循环多少秒的校验的校验
         while True:
             try:
                 times = int(input('每次循环大概多少秒：'))
