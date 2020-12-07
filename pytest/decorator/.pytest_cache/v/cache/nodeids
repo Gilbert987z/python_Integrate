@@ -1,0 +1,4 @@
+[
+  "skip/test_skip1.py::test_func",
+  "skip/test_skip1.py::test_1"
+]

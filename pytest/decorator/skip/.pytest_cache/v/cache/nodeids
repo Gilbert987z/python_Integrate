@@ -1,0 +1,5 @@
+[
+  "test_skipif.py::test_1",
+  "test_skip.py::test_1",
+  "test_skip_inside.py::test_2"
+]

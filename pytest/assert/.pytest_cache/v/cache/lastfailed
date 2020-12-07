@@ -1,0 +1,4 @@
+{
+  "test_class.py::TestClass::test_two": true,
+  "test_sample.py::test_func": true
+}

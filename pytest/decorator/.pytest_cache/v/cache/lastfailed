@@ -1,0 +1,3 @@
+{
+  "skip/test_skip1.py::test_func": true
+}

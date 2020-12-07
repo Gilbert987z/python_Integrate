@@ -1,0 +1,56 @@
+{
+  "uid" : "a6eadd1a078f49d7",
+  "name" : "test_func",
+  "fullName" : "test_sample#test_func",
+  "historyId" : "c53e8cd8e67edf320152ee86febd0eb4",
+  "time" : {
+    "start" : 1602222523607,
+    "stop" : 1602222523608,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 4 == 5\n +  where 4 = func(3)",
+  "statusTrace" : "def test_func():    #自动找test_开头的测试函数执行\n>       assert func(3) == 5\nE       assert 4 == 5\nE        +  where 4 = func(3)\n\ntest_sample.py:15: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_sample"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-MSC5KCU"
+  }, {
+    "name" : "thread",
+    "value" : "4988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_sample"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "a6eadd1a078f49d7.json",
+  "parameterValues" : [ ]
+}

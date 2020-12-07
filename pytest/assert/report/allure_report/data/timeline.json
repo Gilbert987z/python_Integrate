@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-MSC5KCU",
+    "children" : [ {
+      "name" : "4988-MainThread",
+      "children" : [ {
+        "name" : "test_func",
+        "uid" : "a6eadd1a078f49d7",
+        "parentUid" : "5534e532bd8dea9931981921129ed44e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1602222523607,
+          "stop" : 1602222523608,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_one",
+        "uid" : "ece5c0df5da0afa9",
+        "parentUid" : "5534e532bd8dea9931981921129ed44e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602222523350,
+          "stop" : 1602222523352,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_two",
+        "uid" : "5f3fede64fe1aa55",
+        "parentUid" : "5534e532bd8dea9931981921129ed44e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1602222523427,
+          "stop" : 1602222523428,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5534e532bd8dea9931981921129ed44e"
+    } ],
+    "uid" : "93f0d75dde20133ae6ff90e033509cf2"
+  } ]
+}
