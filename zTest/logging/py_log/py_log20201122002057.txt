@@ -1,0 +1,5 @@
+2020-11-22 00:20:57,205 log_class3.py-><module> line:50 [CRITICAL]ere
+2020-11-22 00:20:57,206 log_class3.py-><module> line:52 [INFO]logger info message
+2020-11-22 00:20:57,206 log_class3.py-><module> line:53 [WARNING]logger warning message
+2020-11-22 00:20:57,207 log_class3.py-><module> line:54 [ERROR]logger error message
+2020-11-22 00:20:57,207 log_class3.py-><module> line:55 [CRITICAL]logger critical message

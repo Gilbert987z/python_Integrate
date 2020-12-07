@@ -1,0 +1,16 @@
+log:
+    file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+ip: 127.0.0.1
+port: 8080
+
+dev_url: https://ceshi.joinf.com
+pro_url: https://baidu.com
+
+
+url:
+  baidu_url: https://baidu.com

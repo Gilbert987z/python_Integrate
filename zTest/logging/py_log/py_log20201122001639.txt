@@ -1,0 +1,1 @@
+[2020-11-22 00:16:39,397] log_class3.py-><module> line:50 [CRITICAL]ere

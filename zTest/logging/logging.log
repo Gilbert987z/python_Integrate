@@ -1,0 +1,5 @@
+2020-11-21 Saturday 20:54:55  console_out.py : DEBUG  logger debug message
+2020-11-21 Saturday 20:54:55  console_out.py : INFO  logger info message
+2020-11-21 Saturday 20:54:55  console_out.py : WARNING  logger warning message
+2020-11-21 Saturday 20:54:55  console_out.py : ERROR  logger error message
+2020-11-21 Saturday 20:54:55  console_out.py : CRITICAL  logger critical message
