@@ -10,9 +10,13 @@ def get_yaml_load_all(yaml_file):
     all_data = yaml.load_all(file_data, Loader = yaml.FullLoader)
     for data in all_data:
         print(data)
+
+
 current_path = os.path.abspath(".")
-yaml_path = os.path.join(current_path, "config5.yaml")
+yaml_path = os.path.join(current_path, "config.yml")
 get_yaml_load_all(yaml_path)
+
+
 """结果
 {'animal1': 'dog', 'age': 2}
 {'animal2': 'cat', 'age': 3}

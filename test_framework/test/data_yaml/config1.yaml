@@ -5,3 +5,5 @@ usr1:
 usr2:
   name: b
   psw: 456
+
+# {'usr1': {'name': 'a', 'psw': 123}, 'usr2': {'name': 'b', 'psw': 456}}

@@ -1,5 +1,5 @@
 
-from selenium import webdriver  # 导入selenium中的webdriver包
+from selenium_test import webdriver  # 导入selenium中的webdriver包
 
 
 

@@ -1,6 +1,6 @@
 # -*- coding:UTF-8 -*-
 from unittest import TestCase
-from selenium import webdriver  # 导入selenium中的webdriver包
+from selenium_test import webdriver  # 导入selenium中的webdriver包
 from data import *
 from element import *
 from check import *
